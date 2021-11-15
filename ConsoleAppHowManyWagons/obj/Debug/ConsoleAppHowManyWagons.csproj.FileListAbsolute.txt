@@ -1,0 +1,12 @@
+C:\Users\Asus\source\repos\ConsoleAppHowManyWagons\ConsoleAppHowManyWagons\bin\Debug\ConsoleAppHowManyWagons.exe.config
+C:\Users\Asus\source\repos\ConsoleAppHowManyWagons\ConsoleAppHowManyWagons\bin\Debug\ConsoleAppHowManyWagons.exe
+C:\Users\Asus\source\repos\ConsoleAppHowManyWagons\ConsoleAppHowManyWagons\bin\Debug\ConsoleAppHowManyWagons.pdb
+C:\Users\Asus\source\repos\ConsoleAppHowManyWagons\ConsoleAppHowManyWagons\obj\Debug\ConsoleAppHowManyWagons.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\ConsoleAppHowManyWagons\ConsoleAppHowManyWagons\obj\Debug\ConsoleAppHowManyWagons.exe
+C:\Users\Asus\source\repos\ConsoleAppHowManyWagons\ConsoleAppHowManyWagons\obj\Debug\ConsoleAppHowManyWagons.pdb
+D:\Проекты\ConsoleAppHowManyWagons\ConsoleAppHowManyWagons\bin\Debug\ConsoleAppHowManyWagons.exe.config
+D:\Проекты\ConsoleAppHowManyWagons\ConsoleAppHowManyWagons\bin\Debug\ConsoleAppHowManyWagons.exe
+D:\Проекты\ConsoleAppHowManyWagons\ConsoleAppHowManyWagons\bin\Debug\ConsoleAppHowManyWagons.pdb
+D:\Проекты\ConsoleAppHowManyWagons\ConsoleAppHowManyWagons\obj\Debug\ConsoleAppHowManyWagons.csprojAssemblyReference.cache
+D:\Проекты\ConsoleAppHowManyWagons\ConsoleAppHowManyWagons\obj\Debug\ConsoleAppHowManyWagons.exe
+D:\Проекты\ConsoleAppHowManyWagons\ConsoleAppHowManyWagons\obj\Debug\ConsoleAppHowManyWagons.pdb
